@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Link href={'/dashboard/page.tsx'}>
-        dashboard.
+        dashboard
       </Link>
     </div>
   );
